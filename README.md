@@ -177,7 +177,4 @@ Implement **dynamic seasonal pricing** to boost profit during high-demand months
 - **Environment:** Jupyter Notebook  
 - **Techniques:** Descriptive Statistics, Correlation Heatmap, Boxplots, Histograms, Count Plots, Revenue Estimation  
 
----
-
-## 🗂️ Project Structure
 
