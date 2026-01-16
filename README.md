@@ -25,4 +25,4 @@ This project is a large-scale strategic analysis of **119,390 hotel booking reco
 3. **Engagement-Driven Retention:** Use automated guest-engagement prompts (special request queries) as a tool to increase "mental commitment" and reduce churn in transient segments.
 
 ---
-*Note: This project demonstrates the intersection of Data Science and Hospitality Revenue Management.*
+
